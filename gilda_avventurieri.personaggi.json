@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "67e4ff08444395d3306e0777"
+  },
+  "nome": "Alessandro",
+  "razza": "Elfo",
+  "classe": "Mago",
+  "livello": 5,
+  "abilità": [
+    "Palla di fuoco",
+    "scudo magico",
+    "teletrasporto"
+  ],
+  "inventario": [
+    {
+      "oggetto": "Bacchetta magica",
+      "quantità": 1
+    },
+    {
+      "oggetto": "Pozione di cura",
+      "quantità": 3
+    }
+  ],
+  "punti_esperienza": 12000,
+  "vivo": true,
+  "missioni_completate": 2
+},
+{
+  "_id": {
+    "$oid": "67e4ff5f444395d3306e0779"
+  },
+  "nome": "Ernesto",
+  "razza": "Umano",
+  "classe": "Guerriero",
+  "livello": 8,
+  "abilità": [
+    "Colpo potente",
+    "Carica",
+    "Ripristino"
+  ],
+  "inventario": [
+    "Spada lunga",
+    "Armatura di cuoio"
+  ],
+  "punti_esperienza": 30000,
+  "vivo": true,
+  "missioni_completate": 5,
+  "esperienza": 5000
+},
+{
+  "_id": {
+    "$oid": "67e4ff6e444395d3306e077b"
+  },
+  "nome": "Alessio",
+  "razza": "Elfo",
+  "classe": "Arciere",
+  "livello": 6,
+  "abilità": [
+    "Tiro mirato",
+    "Sparare doppio",
+    "Camuffamento"
+  ],
+  "inventario": [
+    "Arco lungo",
+    "Borsa di frecce",
+    "Mantello dell'invisibilità"
+  ],
+  "punti_esperienza": 18000,
+  "vivo": true,
+  "missioni_completate": 3
+},
+{
+  "_id": {
+    "$oid": "67e4ff8a444395d3306e077f"
+  },
+  "nome": "Cecio",
+  "razza": "Mezzelfo",
+  "classe": "Stregone",
+  "livello": 4,
+  "abilità": [
+    "Evocazione demoniaca",
+    "Palla di fuoco",
+    "Illusione"
+  ],
+  "inventario": [
+    "Bastone magico",
+    "Pozioni curative",
+    "Libro degli incantesimi"
+  ],
+  "punti_esperienza": 14000,
+  "vivo": true,
+  "missioni_completate": 4,
+  "esperienza": 5000
+}]
